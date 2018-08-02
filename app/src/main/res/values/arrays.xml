@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="defaultReactions">
+        <item>정말?</item>
+        <item>걱정스럽다</item>
+        <item>처음 들었네</item>
+        <item>재밌다</item>
+        <item>유루유리 하지마루요</item>
+        <item>이게 뭐지?</item>
+        <item>알려주고 싶다</item>
+        <item>맛없다</item>
+        <item>좋은 기사다</item>
+        <item>한 번 해보고 싶다</item>
+    </string-array>
+
+</resources>

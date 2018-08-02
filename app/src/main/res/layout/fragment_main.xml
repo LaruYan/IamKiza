@@ -1,0 +1,303 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="kr.LaruYan.iamkiza.MainActivity$PlaceholderFragment" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="0dip"
+            android:layout_weight="1"
+            android:text="@string/msg_prologue" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/activity_vertical_margin"
+            android:background="@color/divider_color" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="0dip"
+            android:layout_weight="1"
+            android:text="@string/title_basic"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/header_people"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <EditText
+                android:id="@+id/editText_people"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ems="10"
+                android:hint="@string/hint_people"
+                android:text="@string/hint_people" >
+
+                <requestFocus />
+            </EditText>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/header_material"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <EditText
+                android:id="@+id/editText_material"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ems="10"
+                android:hint="@string/hint_material"
+                android:text="@string/hint_material" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/activity_vertical_margin"
+            android:background="@color/divider_color" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="0dip"
+            android:layout_weight="1"
+            android:text="@string/title_variety"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <CheckBox
+            android:id="@+id/checkBox_01"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/reaction_01" />
+
+        <CheckBox
+            android:id="@+id/checkBox_02"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/reaction_02" />
+
+        <CheckBox
+            android:id="@+id/checkBox_03"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/reaction_03" />
+
+        <CheckBox
+            android:id="@+id/checkBox_04"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/reaction_04" />
+
+        <CheckBox
+            android:id="@+id/checkBox_05"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/reaction_05" />
+
+        <CheckBox
+            android:id="@+id/checkBox_06"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/reaction_06" />
+
+        <CheckBox
+            android:id="@+id/checkBox_07"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/reaction_07" />
+
+        <CheckBox
+            android:id="@+id/checkBox_08"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/reaction_08" />
+
+        <CheckBox
+            android:id="@+id/checkBox_09"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/reaction_09" />
+
+        <CheckBox
+            android:id="@+id/checkBox_10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/reaction_10" />
+
+        <CheckBox
+            android:id="@+id/checkBox_11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:visibility="gone" />
+
+        <CheckBox
+            android:id="@+id/checkBox_12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:visibility="gone" />
+
+        <CheckBox
+            android:id="@+id/checkBox_13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:visibility="gone" />
+
+        <CheckBox
+            android:id="@+id/checkBox_14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:visibility="gone" />
+
+        <CheckBox
+            android:id="@+id/checkBox_15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:visibility="gone" />
+
+        <CheckBox
+            android:id="@+id/checkBox_16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:visibility="gone" />
+
+        <CheckBox
+            android:id="@+id/checkBox_17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:visibility="gone" />
+
+        <CheckBox
+            android:id="@+id/checkBox_18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:visibility="gone" />
+
+        <CheckBox
+            android:id="@+id/checkBox_19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:visibility="gone" />
+
+        <CheckBox
+            android:id="@+id/checkBox_20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <EditText
+                android:id="@+id/editText_newReaction"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ems="10"
+                android:hint="@string/hint_new_reaction" />
+
+            <Button
+                android:id="@+id/button_addNewReaction"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:enabled="false"
+                android:text="@string/action_add" />
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/activity_vertical_margin"
+            android:background="@color/divider_color" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="0dip"
+            android:layout_weight="1"
+            android:text="@string/title_sendto"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <EditText
+            android:id="@+id/editText_result"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/button_sendto"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:text="@string/action_sendto" />
+
+            <TextView
+                android:id="@+id/textView_numChar"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="right|center_vertical"
+                android:text="000" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/activity_vertical_margin"
+            android:background="@color/divider_color" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="0dip"
+            android:layout_weight="1"
+            android:text="@string/title_remove"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/msg_remove" />
+
+        <Button
+            android:id="@+id/button_remove"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/title_remove" />
+
+    </LinearLayout>
+
+</ScrollView>

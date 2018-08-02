@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">아 내가 기자다!</string>
+    <string name="action_settings">아 내가 기자다!에 대하여…</string>
+    <string name="msg_prologue">오늘도 손가락만 꿈틀거리며 보람찬 취재를 마쳤습니다.\n이제 기사를 씁시다.</string>
+    <string name="header_people">반응 주체</string>
+    <string name="header_material">기사 주제</string>
+    <string name="title_basic">기본 단어 설정</string>
+    <string name="title_variety">다양한 반응들</string>
+    <string name="title_sendto">이제 송고할 준비를 합시다.</string>
+    <string name="hint_people">네티즌</string>
+    <string name="hint_material">이번 사건</string>
+    <string name="action_add">추가</string>
+    <string name="hint_new_reaction">새 반응…</string>
+    <string name="action_sendto">송고하기</string>
+    <string name="formatted_result">%2$s에 대하여 %1$s들은, %3$s등의 반응을 보였다.</string>
+    <string name="reaction_01">정말?</string>
+    <string name="reaction_02">걱정스럽다</string>
+    <string name="reaction_03">처음 들었네</string>
+    <string name="reaction_04">재밌다</string>
+    <string name="reaction_05">유루유리 하지마루요</string>
+    <string name="reaction_06">이게 뭐지?</string>
+    <string name="reaction_07">알려주고 싶다</string>
+    <string name="reaction_08">맛없다</string>
+    <string name="reaction_09">좋은 기사다</string>
+    <string name="reaction_10">한 번 해보고 싶다</string>
+    <string name="err_full_slot">더 이상 추가할 수 없습니다. 하단의 추가반응 제거에서 모든 추가반응을 제거하실 수 있습니다.</string>
+    <string name="title_remove">추가 반응 모두 제거</string>
+    <string name="msg_remove">그동안 추가하셨던 반응을 모두 제거합니다.\n아래의 버튼을 길게 누르시면 모두 제거되며 되돌릴 수 없습니다.</string>
+    <string name="msg_removed">추가 반응들이 모두 제거되었습니다.</string>
+    <string name="msg_about">아 내가 기자다!는 이피르(@lffyr)님의 아이디어를 안드로이드 앱으로 옮겨온 것입니다.\n이피르님께 감사합니다.\n원작 사이트를 방문하려면 아래를 찾아주세요.\nhttp://nidev.bitbucket.org/n.html</string>
+
+</resources>
