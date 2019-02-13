@@ -2,12 +2,12 @@
 (Old Project at 2014, Compile not guaranteed) 아 내가 기자다. 앉아서 편하게 기사 쓰는 세태 풍자를 시도.  
 https://play.google.com/store/apps/details?id=kr.LaruYan.iamkiza
 
-![alt text](https://raw.githubusercontent.com/LaruYan/IamKiza/readme/doc/ic_launcher-web.png "Icon")
+![icon](https://raw.githubusercontent.com/LaruYan/IamKiza/master/doc/ic_launcher-web.png "Icon")
 
 
 ## 한국어
-![alt text](https://raw.githubusercontent.com/LaruYan/IamKiza/readme/doc/ko/upper_part.png "화면 상부")
-![alt text](https://raw.githubusercontent.com/LaruYan/IamKiza/readme/doc/ko/bottom_part.png "화면 하부")  
+![화면 상부](https://raw.githubusercontent.com/LaruYan/IamKiza/master/doc/ko/upper_part.png "화면 상부")
+![화면 하부](https://raw.githubusercontent.com/LaruYan/IamKiza/master/doc/ko/bottom_part.png "화면 하부")  
 *****SORRY WE DO NOT SUPPORT LANGUAGE OTHER THAN KOREAN DUE TO CULTURAL ISSUES*****  
 일부 기사에서 자주 보셨던 표현, 익숙하시죠?  
 「이번 사건에 대하여 네티즌들은 "이번 사건, 정말?" "이번 사건, 이게 뭐지?" 등의 반응을 보였다」  
